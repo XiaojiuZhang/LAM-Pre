@@ -17,7 +17,7 @@ LAM-Pre integrates Large Language Model (LLM)-assisted literature mining, system
 ### Installation
 To set up the environment and install necessary dependencies, run the following commands in your terminal:
 ```bash
-git clone [https://github.com/username/LAM-Pre.git](https://github.com/username/LAM-Pre.git)
+git clone https://github.com/XiaojiuZhang/LAM-Pre.git
 cd LAM-Pre
 conda env create -f environment.yml
 conda activate lampre
