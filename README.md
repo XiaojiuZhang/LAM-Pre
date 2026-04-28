@@ -15,7 +15,7 @@ By extracting data from over 14 years of literature, we established the Pret-Glu
 * **Experimental Validation**: Demonstrated PCC $> 0.9$ in diverse feedstock categories and successfully identified high-yield (96%) process regimes.
 
 ## 📂 Directory Structure
-
+```plaintext
 LAM-Pre/
 ├── model_pkl/              # Pre-trained models and preprocessors 
 │   ├── trained_gbdt_model.pkl    # Optimized GBDT model weights
@@ -30,6 +30,7 @@ LAM-Pre/
 ├── batch_predict_mixed_biomass.py # Prediction script for biomass blending strategies [cite: 114]
 ├── environment.yml         # Conda environment configuration
 └── LICENSE                 # MIT License
+```
 
 ## 🚀 Quick Start
 
