@@ -1,9 +1,10 @@
 # LAM-Pre: A Generalizable ML Framework for Biorefinery Pretreatment Design
-![LAM-Pre](./image/LAM-Pre.png)
+
 ## Overview
 LAM-Pre integrates Large Language Model (LLM)-assisted literature mining, systematic Machine Learning (ML) benchmarking, and experimental validation to predict glucose yields across diverse biomass feedstocks and pretreatment conditions. By extracting data from over 14 years of literature, we established the Pret-Glucose dataset, comprising 305 biomass types and 1,473 pretreatment strategies.
 
 ---
+![LAM-Pre](./image/LAM-Pre.png)
 
 ## 📌 Key Features
 * **LLM-Assisted Extraction**: Automated pipeline using ChatGPT-4 for structuring fragmented literature data.
